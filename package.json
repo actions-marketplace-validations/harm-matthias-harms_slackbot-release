@@ -10,8 +10,8 @@
     "lint": "standard"
   },
   "dependencies": {
-    "@actions/core": "2.0.2",
-    "@actions/github": "7.0.0",
+    "@actions/core": "3.0.0",
+    "@actions/github": "9.0.0",
     "@tryfabric/mack": "1.2.1"
   },
   "devDependencies": {
