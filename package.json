@@ -10,14 +10,14 @@
     "lint": "standard"
   },
   "dependencies": {
-    "@actions/core": "3.0.0",
-    "@actions/github": "9.0.0",
+    "@actions/core": "3.0.1",
+    "@actions/github": "9.1.1",
     "@tryfabric/mack": "1.2.1"
   },
   "devDependencies": {
-    "@vercel/ncc": "0.38.4",
-    "@vitest/coverage-v8": "4.0.18",
+    "@vercel/ncc": "0.45.0",
+    "@vitest/coverage-v8": "4.1.10",
     "standard": "17.1.2",
-    "vitest": "4.0.18"
+    "vitest": "4.1.10"
   }
 }
